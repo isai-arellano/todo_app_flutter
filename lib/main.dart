@@ -1,7 +1,12 @@
 import 'package:flutter/material.dart';
+import 'package:hive_flutter/hive_flutter.dart';
 import 'package:todo_app_flutter/ui/home_screen.dart';
 
-void main() {
+void main() async {
+  // Iniciar base de datos HiveDB
+  await Hive.initFlutter();
+  // Abrir caja HiveDB
+  var box = await Hive.openBox('mybox');
   runApp(const MyApp());
 }
 
