@@ -1,17 +1,10 @@
 # todo_app_flutter
 
-A new Flutter project.
+Aplicación de notas creada en Flutter
 
-## Getting Started
+## Iniciar Aplicación:
+1. Descargar repositorio.
+2. Desde la raíz del proyecto ejecutar: "flutter pub get".
+3. Iniciar app.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# todo_app_flutter
+![Modern App Portfolio Mockup Presentation](https://github.com/isai-arellano/todo_app_flutter/assets/28969725/1c92dd67-0f88-44b9-834c-9e6ac3156c7d)
